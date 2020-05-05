@@ -1,4 +1,6 @@
 {
     "editor.fontSize": 15,
-    "python.pythonPath": "venv\\Scripts\\python.exe"
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "appService.defaultWebAppToDeploy": "/subscriptions/4e817ed8-6de4-4fce-97b8-4e30e9c8da0a/resourceGroups/Default/providers/Microsoft.Web/sites/MyHarvest",
+    "appService.deploySubpath": ""
 }
